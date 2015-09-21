@@ -77,7 +77,7 @@ This is a TL;DR of the [standard] and [semistandard] JavaScript rules. For more 
   var message = 'hello, '+name+'!';
   ```
 
-* **Commas should have a space** after it.
+* **Commas should have a space** after them.
 
   ```js
   // ✓ ok
@@ -91,7 +91,7 @@ This is a TL;DR of the [standard] and [semistandard] JavaScript rules. For more 
   function greet (name,options) { ... }
   ```
 
-* **Keep else statements** in the same line as its curly braces.
+* **Keep else statements** in the same line as their curly braces.
 
   ```js
   // ✓ ok
